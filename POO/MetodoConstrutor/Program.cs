@@ -28,8 +28,12 @@ Nome: {SegundaPessoa.Nome}
 Idade: {SegundaPessoa.Idade}");
 
 
-Pessoa3SobreCargas TerceiraPessoa = new Pessoa3SobreCargas("Amy lee", 17);
-System.Console.WriteLine(@$"Primeira Pessoa cadastrada:
-Nome: {TerceiraPessoa.Nome} 
-Idade: {TerceiraPessoa.Idade}");
-System.Console.WriteLine($"Escreva seu nome abaixo.");
+
+
+
+Pessoa3SobreCargas TerceiraPessoa = new Pessoa3SobreCargas();
+TerceiraPessoa.Nome = Console.WriteLine("DIgite seu nome:");
+TerceiraPessoa.Nome = Console.ReadLine();
+TerceiraPessoa.Nome = Console.WriteLine("DIgite sua idade:");
+TerceiraPessoa.Nome = Console.ReadLine();
+TerceiraPessoa.Idade = int.Parse(Console.ReadLine());

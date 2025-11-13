@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52303883822\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {}
+    "C:\\Users\\52303883822\\desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52303883822\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {
+    "C:\\Users\\52303883822\\desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52303883822\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
+        "projectUniqueName": "C:\\Users\\52303883822\\desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
         "projectName": "ReviewArrays",
-        "projectPath": "C:\\Users\\52303883822\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
+        "projectPath": "C:\\Users\\52303883822\\desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
         "packagesPath": "C:\\Users\\52303883822\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52303883822\\Desktop\\BackEnd\\ReviewArrays\\obj\\",
+        "outputPath": "C:\\Users\\52303883822\\desktop\\BackEnd\\ReviewArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\52303883822\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

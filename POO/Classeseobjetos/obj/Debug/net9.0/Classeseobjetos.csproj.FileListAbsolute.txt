@@ -1,0 +1,15 @@
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\bin\Debug\net9.0\Classeseobjetos.exe
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\bin\Debug\net9.0\Classeseobjetos.deps.json
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\bin\Debug\net9.0\Classeseobjetos.runtimeconfig.json
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\bin\Debug\net9.0\Classeseobjetos.dll
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\bin\Debug\net9.0\Classeseobjetos.pdb
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.AssemblyInfoInputs.cache
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.AssemblyInfo.cs
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.csproj.CoreCompileInputs.cache
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.sourcelink.json
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.dll
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\refint\Classeseobjetos.dll
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.pdb
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\Classeseobjetos.genruntimeconfig.cache
+C:\Users\52303883822\Desktop\BackEnd\POO\Classeseobjetos\obj\Debug\net9.0\ref\Classeseobjetos.dll
